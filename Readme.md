@@ -9,7 +9,7 @@
 - Pycharm
 
 참고자료
-https://www.youtube.com/watch?v=3LNHxezPi1I (OpenCV 참고자료) /n
-https://github.com/kairess/simple_face_recognition (OpenCV 참고 Proj) /n
-https://www.youtube.com/watch?v=XK3eU9egll8 (OpenCV 참고자료) /n
+https://www.youtube.com/watch?v=3LNHxezPi1I (OpenCV 참고자료)
+https://github.com/kairess/simple_face_recognition (OpenCV 참고 Proj)
+https://www.youtube.com/watch?v=XK3eU9egll8 (OpenCV 참고자료)
 
